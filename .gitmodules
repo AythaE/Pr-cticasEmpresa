@@ -1,0 +1,3 @@
+[submodule "Memoria"]
+	path = Memoria
+	url = git@github.com:AythaE/master_informatica-PE.git
