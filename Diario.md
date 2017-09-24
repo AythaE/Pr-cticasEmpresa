@@ -1,4 +1,4 @@
-﻿# Diario
+# Diario
 En este fichero iré recogiendo las cosas que voy haciendo diariamente para que facilite la posterior escritura de la memoria.
 
 ## 03/07/2017
